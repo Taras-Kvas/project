@@ -1,0 +1,15 @@
+.btn{
+    margin-top: 20px;
+    width: 40px;
+}
+.titles_wrap{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.ttl_and_btn_wrap{
+    text-align: center;
+    border: 1px solid black;
+    width: 4px;
+}

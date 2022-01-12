@@ -1,0 +1,18 @@
+.user {
+    display: flex;
+    font-size: 15px;
+    column-gap: 15px;
+    align-items: center;
+}
+.btnClick {
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    border-radius: 8px;
+    transition: background-color .3s;
+    position: relative;
+    top: 100px;
+}
+.btnClick:hover {
+    background-color: cornflowerblue;
+}
